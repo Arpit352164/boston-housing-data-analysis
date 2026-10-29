@@ -8,6 +8,7 @@ This project analyses housing data using Microsoft Excel to understand the relat
 - Calculate descriptive statistics.
 - Perform correlation analysis.
 - Apply simple and multiple linear regression.
+
 - Identify patterns related to housing prices.
 
 ## Tools Used
@@ -24,7 +25,7 @@ This project analyses housing data using Microsoft Excel to understand the relat
 5. Multiple linear regression
 
 ## Project File
-- Boston_Housing_Data_Analysis.xlsx
+[Download Excel Analysis Workbook](data/Boston_Housing_Data_Analysis.xlsx)
 
 ## Learning Outcomes
 - Understanding data analysis techniques.
